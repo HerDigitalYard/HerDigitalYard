@@ -4,7 +4,7 @@
  🚀 I use daily: HTML CSS JavaScript jQuery Liquid Git VS Code
  
  
- 🔍  Where to find me
+ ## 🔍  Where to find me
  Gihub Linkedin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esha98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
