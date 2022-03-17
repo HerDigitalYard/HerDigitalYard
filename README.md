@@ -1,4 +1,4 @@
-## Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 
 🏢 I'm currently working at Swanky as a Front-End dev <br>
 🚀 I use daily <br>
@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esha98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1 align="center">Hi 👋, I'm Esha</h1>
+<h1 align="center"> Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esha98&label=Profile%20views&color=0e75b6&style=flat" alt="esha98" /> </p>
