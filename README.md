@@ -31,7 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esha98&show_icons=true&locale=en" alt="esha98" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" /></p>
 
