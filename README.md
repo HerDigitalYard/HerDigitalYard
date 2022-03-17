@@ -1,4 +1,4 @@
-### Hi there, I'm Esha 👋
+ ### Hi there, I'm Esha 👋
 
  🏢 I'm currently working at Swanky as a Front-End dev <br>
  🚀 I use daily: HTML CSS JavaScript jQuery Liquid Git VS Code
