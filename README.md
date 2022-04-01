@@ -1,4 +1,4 @@
-![Header](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+![github-banner](https://user-images.githubusercontent.com/60232135/161285768-696d9fa1-d570-4d9b-9e91-dae99ca56fa0.png)
 
 <h1 align="center"> Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/esha-shah-a39528112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esha-shah-a39528112" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esh--developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esha-shah-a39528112" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eshashah3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshashah3335" height="30" width="40" /></a>
 </p>
 
