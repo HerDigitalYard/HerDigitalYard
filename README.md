@@ -35,7 +35,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="50"><b>GitHub Activity Graph:</b></p>
+<h2 style="display:flex; align-item:center;"><img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="50"><b>GitHub Activity Graph:</b></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" /></p>
 
