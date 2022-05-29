@@ -4,7 +4,8 @@
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
 <br><br><br>
-<iframe src="https://giphy.com/embed/ZbH8qLL8vHXBjrBuO7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/COTRE-transparent-cotre-about-me-ZbH8qLL8vHXBjrBuO7">via GIPHY</a></p> ❤️
+<a href="https://giphy.com/gifs/COTRE-transparent-cotre-about-me-ZbH8qLL8vHXBjrBuO7" width="30"></a> ❤️
+
 -  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
 -  🎓 **Education :** 
     - Master of Science in Information Technology at @[CQUniversity](https://www.cqu.edu.au/), Australia | Grad of 2021
