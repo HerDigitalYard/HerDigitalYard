@@ -41,8 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esha98" alt="esha98" /></a> </p>
-
 ![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
 
 ```
