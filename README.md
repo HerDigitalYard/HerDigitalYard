@@ -42,5 +42,5 @@
 
 
 ```
->  check out my repos 👇
+>  check out my pinned repositories 👇
 ```
