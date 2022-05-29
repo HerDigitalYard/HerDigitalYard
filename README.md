@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on Shopify Ecom and New Build projects
+-  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
 -  🎓 **Education :** 
     - Master of Science in Information Technology at @[CQUniversity](https://www.cqu.edu.au/), Australia | Grad of 2021
 	- Bachelor of Science in Computer Science @[LDRP Institute of Technology and Research](https://www.ldrp.ac.in/), India | Grad of 2019 
