@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
 <br><br><br>
-<a href="https://media.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif" width="30"></a> ❤️
+<img src="https://media.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif" width="30" /> ❤️
 
 -  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
 -  🎓 **Education :** 
