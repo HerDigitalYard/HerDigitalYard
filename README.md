@@ -2,7 +2,6 @@
 
 > I'm a software engineering graduate from the CQUniversity with experience in developing, testing and supporting applications. I love coding because it allows me to learn new things, improve my knowledge in new areas and get to interact with people around the world every day. As someone who enjoys learning and trying new things; I am always looking for ways to grow as an individual, a team player and a better developer. This helps me communicate more effectively with my peers and I try not too much stop before meeting deadlines. My goal is to develop my technical skills and broaden my horizons even more.
 
-<br>
 <h1> About Me ❤️</h1>
 
 -  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
