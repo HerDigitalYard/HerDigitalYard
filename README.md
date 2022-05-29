@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working for [Swanky](https://swankyagency.com/)
-
-- 🌱 I’m currently learning **ReactJs, ES6**
-
-- 💬 Ask me about **HTML, CSS, Liquid, JS**
-
+- 👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on Shopify Ecom and New Build projects
+- 🎓 **Education :** 
+    - Master of Science in Information Technology at @[CQUniversity](https://www.cqu.edu.au/), Australia | Grad of 2021
+	- Bachelor of Science in Computer Science @[LDRP Institute of Technology and Research](https://www.ldrp.ac.in/), India | Grad of 2019 
+- 🧐 Interested in Full Stack Developer. Recent focus on Front End Developer with Latest Technologies Stack.
+- 👯 Looking out for opportunities to collaborate with other Developers worldwide
+- 🌱 Learning aim : TailwindCSS, Typescript, ReactJs  & WebPack.
+- 🥅 2022 Goals: Contribute to Open Source projects
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/esh--developer/) 
 - 🚀 I use daily <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-
-- 📫 How to reach me **eshashah3335@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
