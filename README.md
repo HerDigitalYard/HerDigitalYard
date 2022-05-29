@@ -32,6 +32,8 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+## 📈 GitHub Activity Graph:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" /></p>
