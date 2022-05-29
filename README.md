@@ -1,9 +1,7 @@
-![github-banner](https://user-images.githubusercontent.com/60232135/161285768-696d9fa1-d570-4d9b-9e91-dae99ca56fa0.png)
-
 <h1 align="center"> Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
-<br><br><br>
+<br><br>
 <h1> About Me ❤️</h1>
 
 -  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
