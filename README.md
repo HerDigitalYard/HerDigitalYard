@@ -3,7 +3,9 @@
 <h1 align="center"> Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
--  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
+<br><br><br>
+<iframe src="https://giphy.com/embed/ZbH8qLL8vHXBjrBuO7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/COTRE-transparent-cotre-about-me-ZbH8qLL8vHXBjrBuO7">via GIPHY</a></p> ❤️
+-  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
 -  🎓 **Education :** 
     - Master of Science in Information Technology at @[CQUniversity](https://www.cqu.edu.au/), Australia | Grad of 2021
 	- Bachelor of Science in Computer Science @[LDRP Institute of Technology and Research](https://www.ldrp.ac.in/), India | Grad of 2019 
