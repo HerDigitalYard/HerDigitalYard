@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi, I'm Esha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="8px" alt="hi"></h1>
 
 > I'm a software engineering graduated from the CQUniversity with experience in developing, testing and supporting applications. I love coding because it allows me to learn new things, improve my knowledge in new areas and get to interact with people around the world every day. As someone who enjoys learning and trying new things; I am always looking for ways to grow as an individual, a team player and a better developer. This helps me communicate more effectively with my peers and I try not too much stop before meeting deadlines. My goal is to develop my technical skills and broaden my horizons even more.
 
