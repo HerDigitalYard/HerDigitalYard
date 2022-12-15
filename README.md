@@ -10,7 +10,7 @@
 	- Bachelor of Science in Computer Science @[LDRP Institute of Technology and Research](https://www.ldrp.ac.in/), India | Grad of 2019 
 -  🧐 Interested in Full Stack Developer. Recent focus on Front End Developer with Latest Technologies Stack.
 -  👯 Looking out for opportunities to collaborate with other Developers worldwide
--  🌱 Learning aim : TailwindCSS, Typescript, ReactJs  & WebPack.
+-  🌱 Learning aim : ReactJS, Typescript and ThreeJS.
 -  🥅 2022 Goals: Contribute to Open Source projects
 -  📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/esh--developer/) 
 -  🚀 I use daily <br><br>
