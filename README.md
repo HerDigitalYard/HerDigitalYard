@@ -2,7 +2,7 @@
 
 > I'm a software engineering graduated from the CQUniversity with experience in developing, testing and supporting applications. I love coding because it allows me to learn new things, improve my knowledge in new areas and get to interact with people around the world every day. As someone who enjoys learning and trying new things; I am always looking for ways to grow as an individual, a team player and a better developer. This helps me communicate more effectively with my peers and I try not too much stop before meeting deadlines. My goal is to develop my technical skills and broaden my horizons even more.
 
-<h1> About Me ❤️</h1>
+<h2> About Me ❤️</h2>
 
 -  👩🏻‍💻 Currently working as a Front End Developer  @[Swanky (Shopify Plus agency)](https://swankyagency.com/)| Based on @[Shopify](https://www.shopify.com.au/) Ecom and New Build projects
 -  🎓 **Education :** 
@@ -14,7 +14,7 @@
 -  🥅 2022 Goals: Contribute to Open Source projects
 -  📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/esh--developer/) 
 
-<h2> Tech</h2>
+<h2>Technical Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br> 
