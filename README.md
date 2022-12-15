@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/eshashah3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshashah3335" height="30" width="40" /></a>
 </p>
 
-<h2><b>GitHub Activity Graph:</b><img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="50"></h2>
+<h2><b>GitHub Activity Graph:</b></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" /></p>
 
