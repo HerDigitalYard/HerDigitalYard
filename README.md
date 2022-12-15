@@ -11,10 +11,10 @@
 -  🧐 Interested in Full Stack Developer. Recent focus on Front End Developer with Latest Technologies Stack.
 -  👯 Looking out for opportunities to collaborate with other Developers worldwide
 -  🌱 Learning aim : ReactJS, Typescript and ThreeJS.
--  🥅 2022 Goals: Contribute to Open Source projects
+-  🎯 2023 Goal: Contribute to Open Source projects
 -  📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/esh--developer/) 
 
-<h2>Technical Skills</h2>
+<h2>Technical Skills 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br> 
@@ -23,13 +23,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br> 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<h2>Connect with Me </h2>
+<h2>Connect with Me 🔗</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/esh--developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esha-shah-a39528112" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eshashah3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshashah3335" height="30" width="40" /></a>
 </p>
 
-<h2><b>GitHub Activity Graph:</b></h2>
+<h2>GitHub Activity Graph 📈</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" /></p>
 
