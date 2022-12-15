@@ -40,7 +40,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<h1><b>GitHub Activity Graph:</b><img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="50"></h1>
+<h2><b>GitHub Activity Graph:</b><img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="50"></h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" /></p>
 
