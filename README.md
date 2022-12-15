@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br> 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+<h2>Connect with Me </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/esh--developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esha-shah-a39528112" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eshashah3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshashah3335" height="30" width="40" /></a>
