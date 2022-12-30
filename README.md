@@ -46,3 +46,5 @@
 ```
 >  check out my pinned repositories 👇
 ```
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
