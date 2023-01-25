@@ -63,16 +63,6 @@
 </div>
 <!-- Connection End -->
 
-<!-- Footer Start -->
-<samp>
-    <p align="center">
-        ════ ★★★ ════
-        <br>
-        Happy Coding 👩🏻‍💻!
-    </p>
-</samp>
-<!-- Footer End -->
-
 <!-- Snake Gif -->
 ![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
 
