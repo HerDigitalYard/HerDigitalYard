@@ -71,9 +71,11 @@
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" width="45%" />
     </p>
     <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" width="50%"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" width="52%"/>
     </p>
 </div>
+
+<br> 
 
 ```
 >  check out my pinned repositories 👇
