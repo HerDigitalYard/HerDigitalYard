@@ -68,7 +68,7 @@
 
 <div>
     <p>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" width="48%" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" width="45%" />
     </p>
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" width="50%"/>
