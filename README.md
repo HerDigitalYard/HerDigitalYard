@@ -1,7 +1,7 @@
 <!-- Intro Start -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Esha98/Esha98">Esha Shah</a></b><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+                <b><a target="_blank" href="https://github.com/Esha98/Esha98">Esha Shah</a></b><img src="wave.gif" width="30">
         </samp>
 </h1>
 <!-- Intro End -->
