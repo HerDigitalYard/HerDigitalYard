@@ -19,7 +19,7 @@
 -  👯 Looking out for opportunities to collaborate with other Developers worldwide
 -  🌱 Learning aim : ReactJS, Typescript and ThreeJS.
 -  🎯 2023 Goal: Open Source projects Contribution
--  📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/esh--developer/) 
+-  📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/herdigitalyard/) 
 <!-- About Me End  -->
 
 <!-- Technical Skills Start  -->
@@ -55,7 +55,7 @@
 
 <div>
 <!-- LinkedIn -->
-<a target="_blank"href="https://www.linkedin.com/in/esh--developer/details/skills/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
+<a target="_blank"href="https://www.linkedin.com/in/herdigitalyard/details/skills/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
 <!-- HackerRank -->
 <a target="_blank"href="https://www.hackerrank.com/eshashah3335"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <!-- Stakoverflow -->
@@ -68,10 +68,10 @@
 
 <div>
     <p>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=esha98&show_icons=true&locale=en&layout=compact" alt="esha98" width="45%" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HerDigitalYard&show_icons=true&locale=en&layout=compact" alt="HerDigitalYard" width="45%" />
     </p>
     <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha98&" alt="esha98" width="52%"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HerDigitalYard&" alt="HerDigitalYard" width="52%"/>
     </p>
 </div>
 
