@@ -64,7 +64,7 @@
 <!-- Connection End -->
 
 <!-- Snake Gif -->
-![snake gif](https://github.com/Esha98/Esha98/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/HerDigitalYard/HerDigitalYard/blob/output/github-contribution-grid-snake.gif)
 
 <div>
     <p>
