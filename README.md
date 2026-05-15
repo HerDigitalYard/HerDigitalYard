@@ -11,7 +11,7 @@
 <!-- About Me Start  -->
 <h2> About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">️</h2>
 
--  👩🏻‍💻 Currently working as a Front End Developer  @[BA Creative](https://bacreative.com.au/)| Based on @[Shopify](https://www.shopify.com.au/) E-commerce and New Build projects
+-  👩🏻‍💻 Currently working as a Developer  @[Bupa](https://www.bupa.com.au/)| Based on @[Shopify](https://www.shopify.com.au/) E-commerce and New Build projects
 -  🎓 **Education :** 
     - Master of Science in Information Technology at @[CQUniversity](https://www.cqu.edu.au/), Australia | Grad of 2021
 	- Bachelor of Science in Computer Science @[LDRP Institute of Technology and Research](https://www.ldrp.ac.in/), India | Grad of 2019 
